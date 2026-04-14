@@ -4,12 +4,12 @@ Este projeto é um sistema simples de inventário de computadores desenvolvido e
 
 ## Funcionalidades
 
-- ✅ Adicionar computadores ao inventário
-- 🗑️ Remover computadores por ID
-- 🔄 Atualizar informações (com controle de upgrades)
-- 📖 Listar todos os registros
-- 💾 Exportação automática para CSV
-- 📅 Registro de data e tipo de atualização
+-  Adicionar computadores ao inventário
+-  Remover computadores por ID
+-  Atualizar informações (com controle de upgrades)
+-  Listar todos os registros
+-  Exportação automática para CSV
+-  Registro de data e tipo de atualização
 
 ---
 
